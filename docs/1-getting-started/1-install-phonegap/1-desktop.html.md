@@ -15,7 +15,7 @@ The PhoneGap Desktop application provides a drag and drop interface for creating
 [PhoneGap CLI](/getting-started/1-install-phonegap/cli) built for those who prefer a visual user interface
 over a command line interface approach.  
 
-<div class="alert--info">**NOTE:** The getting started steps vary based on the initial PhoneGap tool you install here in step 1. For the rest of the steps be sure to choose either the **Desktop** or **CLI** tab at the top accordingly.</div>
+<div class="alert--info">**NOTE: jats** The getting started steps vary based on the initial PhoneGap tool you install here in step 1. For the rest of the steps be sure to choose either the **Desktop** or **CLI** tab at the top accordingly.</div>
 
 Select your operating system to continue:
 - <a href="#mac">Mac OS X</a>
